@@ -22,7 +22,13 @@ Aşağıdaki adımları izleyerek projeyi çalıştırabilirsiniz:
 
 ![frAkahl-Screenshot2024-10-11081357](https://github.com/user-attachments/assets/bdd08c51-f3b9-4d38-ad8b-0dba952ea0f5)
 
+
 1- Row ve Column hizalama yöntemi ile widget'larını kullanarak yukarıdaki tasarımı yapınız.
+
+
+
+
+
 
 
 Atölye Sağlayıcı: Beyza Yalvaç
